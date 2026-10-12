@@ -1,12 +1,4 @@
-```cmd
-cd C:\workspaces\chatbot\langchain-web-chatbot
-
-C:\Users\khj00\AppData\Local\pypoetry\Cache\virtualenvs\langchain-web-chatbot-PnXTQjXj-py3.11\Scripts\activate
-```
-
 # 2026년 [HYUNDAI] - AI Insight Campus_AI 서비스 개발과정
-
-
 ## **LangChain으로 만드는 웹 기반 챗봇 실습**
 
 LLM 기반 챗봇의 구조를 이해하고, LangChain·Streamlit을 활용해 실질적인 웹 챗봇을 구현하는 것을 목표로 합니다.
@@ -72,3 +64,9 @@ https://code.visualstudio.com/
 
 > © 2026. LangChain으로 만드는 웹 기반 챗봇 실습  
 > All rights reserved.
+
+```cmd
+cd C:\workspaces\chatbot\langchain-web-chatbot
+
+C:\Users\user\AppData\Local\pypoetry\Cache\virtualenvs\hyundai01-PnXTQjXj-py3.11\Scripts\activate.bat
+```
